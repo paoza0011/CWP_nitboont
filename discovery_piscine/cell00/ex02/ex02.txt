@@ -1,6 +1,0 @@
-mkdir ex02
-cd ex02
-type nul > hello_world.py
-dir
-code hello_world.py
-python hello_world.py
