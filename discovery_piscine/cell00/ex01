@@ -1,0 +1,8 @@
+cd discovery_piscine
+cd cell00
+mkdir ex01
+cd ex01
+type nul > 42.py
+dir
+code 42.py
+python 42.py
